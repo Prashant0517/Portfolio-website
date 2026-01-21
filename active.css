@@ -121,6 +121,7 @@
     background-color: #000;
     color: #fff;
     padding: 80px 0;
+    min-height: 100vh;
 }
 
 /* Title */
@@ -197,6 +198,7 @@
     background-color: rgb(42, 42, 42);
     color: #fff;
     padding: 80px 0;
+    min-height: 100vh;
 }
 
 /* Title */
@@ -234,7 +236,7 @@
 
 .edu-info h3 {
     font-size: 1.2rem;
-    color: rgba(237, 144, 5, 0.966);
+    color: aqua;
     margin-bottom: 10px;
 }
 
@@ -260,6 +262,7 @@
     background-color: #000;
     color: #fff;
     padding: 80px 0;
+    min-height: 100vh;
 } 
 
 /* Title */
@@ -328,6 +331,7 @@
     background-color:  rgb(42, 42, 42);
     color: #fff;
     padding: 80px 0;
+    min-height: 100vh;
 }
 
 /* Title */
